@@ -1,6 +1,6 @@
 'use strict';
 
-import React, { PropTypes, Component, } from 'react';
+import React, { PropTypes, Component } from 'react';
 import { View, PanResponder, Animated } from 'react-native';
 
 const initialState = {
